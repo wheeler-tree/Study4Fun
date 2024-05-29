@@ -32,4 +32,6 @@ A brainstorming notes for my side project and study.
    3. Practice at the web app
 
       [情報セキュリティーマネジメント試験ドットコム](https://www.sg-siken.com/) 
+      
+      过去问一般都不是原题，只适合用来刷熟练度。
 
